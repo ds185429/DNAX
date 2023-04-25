@@ -338,7 +338,7 @@ Create website deployment-ready with minimal desktop application dependency.
 #### Divyansh Srivastava, PS Engineer - II
 
 
-![](images/Divyansh.png)
+![](images/Divyansh.jpg)
 
 
 
